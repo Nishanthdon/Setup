@@ -1,0 +1,34 @@
+
+REACT APP : 
+============
+
+	1.  Install node
+	2.  npm -v
+	3.  npm install -g create-react-app
+		1. npm install react-router-dom --save
+	4.  create-react-app ['appName']
+
+		1.  snippet, es6,
+
+	5.  npm start
+	6.  npm run build
+
+
+
+Need to study :
+================
+
+1. Redux					
+2. Flex
+3. Material
+4. Using libraries
+
+
+Prepare It :
+=============
+
+1.  Component lifecycle
+2.  Parent to child communication
+3.  map, filter, reduce
+4.  Go through react app once
+5.  ref - in detail

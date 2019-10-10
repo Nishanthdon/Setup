@@ -1,3 +1,4 @@
+
 Create React App :
 
 	- npm install -g react-native-cli
@@ -9,3 +10,8 @@ Create React App :
 After Creating App :
 
 	- npm start
+
+React-Navigation :
+
+	- npm install react-navigation
+	- npm install  react-native-gesture-handler

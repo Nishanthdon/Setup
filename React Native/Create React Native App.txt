@@ -1,7 +1,9 @@
-
-Create React App :
+Initial :
 
 	- npm install -g react-native-cli
+
+Create React Native App :
+
 	- react-native init [project name]*
 	
 	- react-native run-android
